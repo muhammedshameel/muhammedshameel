@@ -1,8 +1,8 @@
 - 👋 Hi, I’m muhammed shameel maravan
 - 👀 I’m interested in coding and devops tools...
 - 🌱 I’m currently learning Java/Javascript/HTML/CSS/DBMS/Devops
-- 💞️ I’m looking to collaborate on Java full stack and devopos learning journey...
-- 📫 muhammed_shameel@outlook.com
+- 💞️ I’m looking to collaborate on Java and MERN full stack and devopos learning journey...
+- 📫 shameelmarvan@gmail.com && muhammed_shameel@outlook.com 
 
 <!---
 muhammedshameel/muhammedshameel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
